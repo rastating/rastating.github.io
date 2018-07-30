@@ -5,6 +5,8 @@ excerpt: After upgrading to Ubuntu 18.04, I ran into an issue (or possibly a fea
 date: 2018-05-06 13:32:00 +0100
 categories:
   - ubuntu
+  - linux
+tags:
   - ubuntu 18.04
   - pulse audio
   - bionic beaver
