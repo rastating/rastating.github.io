@@ -12,6 +12,8 @@ tags:
   - grub
   - bionic beaver
 ---
+![](/assets/images/creating-a-reboot-into-windows-button-in-ubuntu/reboot-button-screenshot.png)
+
 If you're dual booting a Windows and Ubuntu desktop, it can feel a bit cumbersome having to wait for GRUB and then manually choosing to boot into Windows. There is a utility packaged with GRUB which can help resolve this, but it requires a bit of setup.
 
 I have used this solution successfully on both Ubuntu 16.04 and 18.04. There is no reason that this solution should not work on any other distribution that is using GRUB, but without testing, I cannot say with absolute certainty!

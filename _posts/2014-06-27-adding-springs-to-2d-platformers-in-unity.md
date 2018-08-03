@@ -17,7 +17,7 @@ This guide will show you how to utilise a spring prefab I have created (as can b
 
 ![](/assets/images/adding-springs-to-2d-platformers-in-unity/unity_spring_platform.png)
 
-To view an example of this component in action, [Click Here](https://static.rastating.com/unity/spring/)! Use the arrow keys to move the player and press the space bar to jump.
+To view an example of this component in action, [Click Here](https://rastating.github.io/unity-spring-demo/)! Use the arrow keys to move the player and press the space bar to jump.
 
 ### Prerequisites
 In order to use this prefab, your user controlled player will have to have a 2D rigidbody attached to it as the prefab assumes you are using the physics engine to control your character's movement.
@@ -53,7 +53,7 @@ private bool JumpInputActive {
 }
 ```
 
-Now, whenever your player is on top of the spring, it will push down, and then will spring the player into the air if they jump; again, [see the online demo](https://static.rastating.com/unity/spring/) for an example of this in action. You can tweak the amount of force that the spring should apply to the player's velocity by altering the spring force property in the inspector.
+Now, whenever your player is on top of the spring, it will push down, and then will spring the player into the air if they jump; again, [see the online demo](https://rastating.github.io/unity-spring-demo/) for an example of this in action. You can tweak the amount of force that the spring should apply to the player's velocity by altering the spring force property in the inspector.
 
 ![](/assets/images/adding-springs-to-2d-platformers-in-unity/unity_spring_force.png)
 
