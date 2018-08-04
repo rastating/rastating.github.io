@@ -38,7 +38,7 @@ GET /wp-admin/admin.php?page=rm_field_manage&rm_form_id=-1+union+select+1%2C2%2C
 ```
 
 ## WordPress Exploit Framework Module
-[exploit/xss/reflected/registrationmagic\_reflected\_xss\_shell\_upload](https://github.com/rastating/wordpress-exploit-framework/blob/development/modules/exploit/xss/reflected/registrationmagic_reflected_xss_shell_upload.rb)
+[exploit/xss/reflected/registrationmagic\_reflected\_xss\_shell\_upload](https://github.com/rastating/wordpress-exploit-framework/blob/development/lib/wpxf/modules/exploit/xss/reflected/registrationmagic_reflected_xss_shell_upload.rb)
 
 ## WPVDB-ID
 [8976](https://wpvulndb.com/vulnerabilities/8976)

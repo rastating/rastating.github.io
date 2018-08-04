@@ -40,7 +40,7 @@ Upgrade to version 1.02
 ```
 
 ## WordPress Exploit Framework Module
-[exploit/xss/reflected/woo\_email\_control\_reflected\_xss\_shell\_upload](https://github.com/rastating/wordpress-exploit-framework/blob/development/modules/exploit/xss/reflected/woo_email_control_reflected_xss_shell_upload.rb)
+[exploit/xss/reflected/woo\_email\_control\_reflected\_xss\_shell\_upload](https://github.com/rastating/wordpress-exploit-framework/blob/development/lib/wpxf/modules/exploit/xss/reflected/woo_email_control_reflected_xss_shell_upload.rb)
 
 ## WPVDB-ID
 8559

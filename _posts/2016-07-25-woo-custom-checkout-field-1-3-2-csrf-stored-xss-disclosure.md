@@ -44,7 +44,7 @@ Upgrade to version 1.3.5
 ```
 
 ## WordPress Exploit Framework Module
-[exploit/xss/stored/woo\_custom\_checkout\_field\_xss\_shell\_upload](https://github.com/rastating/wordpress-exploit-framework/blob/development/modules/exploit/xss/stored/woo_custom_checkout_field_xss_shell_upload.rb)
+[exploit/xss/stored/woo\_custom\_checkout\_field\_xss\_shell\_upload](https://github.com/rastating/wordpress-exploit-framework/blob/development/lib/wpxf/modules/exploit/xss/stored/woo_custom_checkout_field_xss_shell_upload.rb)
 
 ## WPVDB-ID
 8567

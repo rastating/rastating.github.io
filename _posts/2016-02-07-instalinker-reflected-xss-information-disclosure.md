@@ -39,7 +39,7 @@ Upgrade to version 1.1.2
 http://target/wp-content/plugins/instalinker/includes/instalinker-admin-preview.php?client_id=%22%3E%3Cscript%3Ealert(1);%3C/script%3E%3Cdiv%20data-il-client-id=%22
 
 ## WordPress Exploit Framework Module
-[exploit/xss/reflected/instalinker\_reflected\_xss\_shell\_upload](https://github.com/rastating/wordpress-exploit-framework/blob/development/modules/exploit/xss/reflected/instalinker_reflected_xss_shell_upload.rb)
+[exploit/xss/reflected/instalinker\_reflected\_xss\_shell\_upload](https://github.com/rastating/wordpress-exploit-framework/blob/development/lib/wpxf/modules/exploit/xss/reflected/instalinker_reflected_xss_shell_upload.rb)
 
 ## WPVDB-ID
 [8382](https://wpvulndb.com/vulnerabilities/8382)

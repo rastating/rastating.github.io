@@ -31,7 +31,7 @@ Due to a lack of CSRF mitigation and entity encoding in `lib/episode_asset_list_
 Upgrade to the latest version of the plugin
 
 ## WordPress Exploit Framework Module
-[exploit/xss/reflected/podlove\_podcast\_publisher\_reflected\_xss\_shell\_upload](https://github.com/rastating/wordpress-exploit-framework/blob/development/modules/exploit/xss/reflected/podlove_podcast_publisher_reflected_xss_shell_upload.rb)
+[exploit/xss/reflected/podlove\_podcast\_publisher\_reflected\_xss\_shell\_upload](https://github.com/rastating/wordpress-exploit-framework/blob/development/lib/wpxf/modules/exploit/xss/reflected/podlove_podcast_publisher_reflected_xss_shell_upload.rb)
 
 ## Proof of Concept
 ```xml

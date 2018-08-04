@@ -71,7 +71,7 @@ At this point, it was pretty safe to assume that this would be where my initial 
 
 The WPScan report brought back **a lot** of vulnerabilities, most of which were XSS vulnerabilities; which were of no use in this scenario.
 
-There was one result in particular which caught my interest, however, which was the outdated version of the All in One Migration plugin. The version of the plugin was one which I was quite familiar with, as I have previously written a [Metasploit Module](https://github.com/rapid7/metasploit-framework/blob/master/modules/auxiliary/gather/wp_all_in_one_migration_export.rb) and a [WordPress Exploit Framework Module](https://github.com/rastating/wordpress-exploit-framework/blob/master/modules/auxiliary/all_in_one_migration_export.rb) for an unauthenticated database export vulnerability that exists within this version.
+There was one result in particular which caught my interest, however, which was the outdated version of the All in One Migration plugin. The version of the plugin was one which I was quite familiar with, as I have previously written a [Metasploit Module](https://github.com/rapid7/metasploit-framework/blob/master/modules/auxiliary/gather/wp_all_in_one_migration_export.rb) and a [WordPress Exploit Framework Module](https://github.com/rastating/wordpress-exploit-framework/blob/master/lib/wpxf/modules/auxiliary/file_download/all_in_one_migration_export.rb) for an unauthenticated database export vulnerability that exists within this version.
 
 
 ```

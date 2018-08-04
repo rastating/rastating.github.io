@@ -31,7 +31,7 @@ All versions
 There is currently no official fix, the plugin has been removed from the WordPress plugin repository until the vendor provides a solution.
 
 ## WordPress Exploit Framework Module
-[exploit/xss/reflected/wp\_whois\_domain\_reflected\_xss\_shell\_upload](https://github.com/rastating/wordpress-exploit-framework/blob/development/modules/exploit/xss/reflected/wp_whois_domain_reflected_xss_shell_upload.rb)
+[exploit/xss/reflected/wp\_whois\_domain\_reflected\_xss\_shell\_upload](https://github.com/rastating/wordpress-exploit-framework/blob/development/lib/wpxf/modules/exploit/xss/reflected/wp_whois_domain_reflected_xss_shell_upload.rb)
 
 ## Proof of Concept
 ```xml

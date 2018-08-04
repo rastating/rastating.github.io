@@ -36,7 +36,7 @@ GET /wp-admin/admin.php?page=rm_field_manage&rm_form_id=-1+union+select+ID%2C2%2
 ```
 
 ## WordPress Exploit Framework Module
-[auxiliary/hash_dump/registrationmagic\_hash\_dump](https://github.com/rastating/wordpress-exploit-framework/blob/development/modules/auxiliary/hash_dump/registrationmagic_hash_dump.rb)
+[auxiliary/hash_dump/registrationmagic\_hash\_dump](https://github.com/rastating/wordpress-exploit-framework/blob/development/lib/wpxf/modules/auxiliary/hash_dump/registrationmagic_hash_dump.rb)
 
 ## Technical Overview
 On line 169 of `admin/controllers/class_rm_field_controller.php`, a call is made into `get_all_form_fields`, passing in the value of the `rm_form_id` field, with no sanitisation:

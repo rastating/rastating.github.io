@@ -12,7 +12,7 @@ tags:
 ---
 On 11th July, 2018, a pull request was opened on the [WordPress Exploit Framework GitHub Page](https://github.com/rastating/wordpress-exploit-framework/pull/52) to add a new feature that a user ([Vinicius Marangoni](https://github.com/viniciusmarangoni)) had created whilst completing a boot2root machine from VulnHub.
 
-The scenario encountered by the user was that the plugins directory did not have write permissions, preventing them from using the [Admin Shell Upload Module](https://github.com/rastating/wordpress-exploit-framework/blob/master/modules/exploit/shell/admin_shell_upload.rb). This led to the discovery that if they were to upload PHP files instead of ZIP files in the plugin uploader - WordPress would accept the files, and then leave a copy in the uploads directory after it failed to process it as a ZIP - leaving a PHP file to be executed.
+The scenario encountered by the user was that the plugins directory did not have write permissions, preventing them from using the [Admin Shell Upload Module](https://github.com/rastating/wordpress-exploit-framework/blob/development/lib/wpxf/modules/exploit/shell/admin_shell_upload.rb). This led to the discovery that if they were to upload PHP files instead of ZIP files in the plugin uploader - WordPress would accept the files, and then leave a copy in the uploads directory after it failed to process it as a ZIP - leaving a PHP file to be executed.
 
  As he did not realise this was a flaw within the core code, I quickly raised the issue with WordPress and contacted Vinicius to let him know that he had stumbled upon a bug which needs to be patched and that would hopefully score a bounty for him.
 

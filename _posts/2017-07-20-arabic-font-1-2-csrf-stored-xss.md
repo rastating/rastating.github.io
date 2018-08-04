@@ -50,7 +50,7 @@ The patched plugin can be found here: [https://drive.google.com/file/d/1OWUiPZIQ
 ```
 
 ## WordPress Exploit Framework Module
-[exploit/xss/stored/arabic\_font\_csrf\_stored\_xss\_shell\_upload](https://github.com/rastating/wordpress-exploit-framework/blob/development/modules/exploit/xss/stored/arabic_font_csrf_stored_xss_shell_upload.rb)
+[exploit/xss/stored/arabic\_font\_csrf\_stored\_xss\_shell\_upload](https://github.com/rastating/wordpress-exploit-framework/blob/development/lib/wpxf/modules/exploit/xss/stored/arabic_font_csrf_stored_xss_shell_upload.rb)
 
 ## WPVDB-ID
 [8868](https://wpvulndb.com/vulnerabilities/8868)

@@ -31,7 +31,7 @@ Due to a lack of CSRF mitigation and entity encoding in `wp-live-chat-support.ph
 Upgrade  to version 7.0.07 or newer
 
 ## WordPress Exploit Framework Module
-[exploit/xss/reflected/wp\_live\_chat\_support\_reflected\_xss\_shell\_upload](https://github.com/rastating/wordpress-exploit-framework/blob/development/modules/exploit/xss/reflected/wp_live_chat_support_reflected_xss_shell_upload.rb)
+[exploit/xss/reflected/wp\_live\_chat\_support\_reflected\_xss\_shell\_upload](https://github.com/rastating/wordpress-exploit-framework/blob/development/lib/wpxf/modules/exploit/xss/reflected/wp_live_chat_support_reflected_xss_shell_upload.rb)
 
 ## Proof of Concept
 `http://target/wp-admin/admin.php?page=wplivechat-menu-history&wplc_action=remove_cid&cid=0'><script>alert(document.cookie)<%2Fscript><span class='`

@@ -40,7 +40,7 @@ Upgrade to version 2.1.11 or later
 ```
 
 ## WordPress Exploit Framework Module
-[exploit/xss/reflected/portfolio\_reflected\_xss\_shell\_upload](https://github.com/rastating/wordpress-exploit-framework/blob/development/modules/exploit/xss/reflected/portfolio_reflected_xss_shell_upload.rb)
+[exploit/xss/reflected/portfolio\_reflected\_xss\_shell\_upload](https://github.com/rastating/wordpress-exploit-framework/blob/development/lib/wpxf/modules/exploit/xss/reflected/portfolio_reflected_xss_shell_upload.rb)
 
 ## WPVDB-ID
 [8637](https://wpvulndb.com/vulnerabilities/8637)

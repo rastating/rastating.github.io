@@ -31,7 +31,7 @@ Due to a lack of CSRF mitigation and entity encoding in `includes/admin_header.p
 Upgrade  to version 6.19 or newer
 
 ## WordPress Exploit Framework Module
-[exploit/xss/reflected/maxbuttons\_reflected\_xss\_shell\_upload](https://github.com/rastating/wordpress-exploit-framework/blob/development/modules/exploit/xss/reflected/maxbuttons_reflected_xss_shell_upload.rb)
+[exploit/xss/reflected/maxbuttons\_reflected\_xss\_shell\_upload](https://github.com/rastating/wordpress-exploit-framework/blob/development/lib/wpxf/modules/exploit/xss/reflected/maxbuttons_reflected_xss_shell_upload.rb)
 
 ## Proof of Concept
 ```xml
