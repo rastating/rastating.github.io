@@ -1,0 +1,88 @@
+diff --git a/account.php b/account.php
+index d0f66bb..f71fb34 100644
+--- a/account.php
++++ b/account.php
+@@ -212,7 +212,7 @@ function tabella($action,$dati=array()) {
+    $language["DIF_EMAIL"]=AddSlashes($language["DIF_EMAIL"]);
+ 
+    $tpl_account->set("language",$language);
+-   $tpl_account->set("account_action",$action);
++   $tpl_account->set("account_action", htmlentities($action, ENT_QUOTES));
+    $tpl_account->set("account_form_actionlink",htmlspecialchars("index.php?page=signup&act=$action&returnto=$link"));
+    $tpl_account->set("account_uid",$dati["id"]);
+    $tpl_account->set("account_returnto",urlencode($link));
+@@ -584,4 +584,4 @@ if ($VALIDATION=="user")
+ return ((is_object($GLOBALS['conn'])) ? mysqli_errno($GLOBALS['conn']) : (($___mysqli_res = mysqli_connect_errno()) ? $___mysqli_res : false));
+ }
+ 
+-?>
+\ No newline at end of file
++?>
+diff --git a/forum/forum.search.php b/forum/forum.search.php
+index e6bfffb..78218f4 100644
+--- a/forum/forum.search.php
++++ b/forum/forum.search.php
+@@ -99,7 +99,7 @@ if ($keywords != "")
+ else
+     $forumtpl->set("results",false, true);
+ 
+-$forumtpl->set("search_keywords",$keywords);
++$forumtpl->set("search_keywords", htmlentities($keywords, ENT_QUOTES));
+ 
+ 
+-?>
+\ No newline at end of file
++?>
+diff --git a/news.php b/news.php
+index 8aca708..eb88ccf 100644
+--- a/news.php
++++ b/news.php
+@@ -105,8 +105,8 @@ global $language, $newstpl;
+     $tplnews=array();
+     $tplnews["action"]="index.php?page=news&amp;act=confirm";
+     $tplnews["hidden_action"]=$action;
+-    $tplnews["hidden_id"]=$_GET["id"];
+-    $tplnews["news_title"]=$title;
++    $tplnews["hidden_id"] = htmlentities($_GET["id"], ENT_QUOTES);
++    $tplnews["news_title"] = htmlentities($title, ENT_QUOTES);
+     $tplnews["bbcode"]=textbbcode("news","news",$news);
+     $newstpl->set("news",$tplnews);
+ 
+@@ -125,8 +125,8 @@ global $news, $title, $CURUSER, $language, $newstpl;
+     $tplnews=array();
+     $tplnews["action"]="index.php?page=news&amp;act=confirm";
+     $tplnews["hidden_action"]=$action;
+-    $tplnews["hidden_id"]=$_GET["id"];
+-    $tplnews["news_title"]=$title;
++    $tplnews["hidden_id"] = htmlentities($_GET["id"], ENT_QUOTES);
++    $tplnews["news_title"] = htmlentities($title, ENT_QUOTES);
+     $tplnews["bbcode"]=textbbcode("news","news",$news);
+     $newstpl->set("news",$tplnews);
+ 
+@@ -175,4 +175,4 @@ else
+     header("Location: index.php?page=viewnews");
+ }
+ 
+-?>
+\ No newline at end of file
++?>
+diff --git a/viewnews.php b/viewnews.php
+index 8db2c7b..a7e6fca 100644
+--- a/viewnews.php
++++ b/viewnews.php
+@@ -76,7 +76,7 @@ foreach ($res as $rows)
+       $viewnews[$i]["delete_news"] = "&nbsp;&nbsp;&nbsp;<a onclick=\"return confirm('". str_replace("'","\'",$language["DELETE_CONFIRM"])."')\" href=\"index.php?page=news&amp;act=del&amp;id=".$rows["id"]."\">".$language["DELETE"]."</a>";
+       $viewnews[$i]["user_posted"] = unesc($rows["username"]);
+       $viewnews[$i]["posted_date"] = date("d/m/Y H:i",$rows["news_date"]-$offset);
+-      $viewnews[$i]["news_title"] = unesc($rows["title"]);
++      $viewnews[$i]["news_title"] = htmlentities($rows["title"], ENT_QUOTES);
+       $viewnews[$i]["news"] = format_comment($rows["news"]);
+     
+       $i++;
+@@ -85,4 +85,4 @@ foreach ($res as $rows)
+ 
+ $viewnewstpl -> set("viewnews", $viewnews);
+ 
+-?>
+\ No newline at end of file
++?>
