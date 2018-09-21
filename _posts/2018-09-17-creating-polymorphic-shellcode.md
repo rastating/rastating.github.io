@@ -220,7 +220,7 @@ global _start
 section .text
   _start:
     lea   ecx, [esp]
-    mov   eax, 0xd34db3ef
+    xor   eax, eax
     cdq
     mov   ebx, edx
     mov   eax, ebx
