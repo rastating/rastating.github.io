@@ -18,6 +18,7 @@ tags:
   - CVE-2018-15684
   - CVE-2018-15683
   - CVE-2018-16361
+  - CVE-2018-17870
 ---
 In August, 2018, I identified multiple vulnerabilities in the XBTIT torrent tracker software; a system in use by various active torrent trackers.
 
@@ -405,3 +406,6 @@ CVE-2018-15683
 * **2018-09-01:** Create patches for CVE-2018-15677 and CVE-2018-16361
 * **2018-09-03:** Arrange pull request for patches issues and public disclosure
 * **2018-09-03:** Pull request opened via [GitHub](https://github.com/btiteam/xbtit/pull/58) to patch the XSS issues
+* **2018-10-01:** Identify another open redirect (CVE-2018-17870)
+* **2018-10-01:** Pull request opened via [GitHub](https://github.com/btiteam/xbtit/pull/59) to patch CVE-2018-15683 and CVE-2018-17870
+* **2018-10-01:** Pull request opened via [GitHub](https://github.com/btiteam/xbtit/pull/60) to patch CVE-2018-15684
