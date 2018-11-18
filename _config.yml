@@ -104,7 +104,7 @@ author:
   avatar           : "/assets/images/avatar.jpg"
   bio              : "Security researcher. Addicted to coding and security."
   location         : "Manchester, UK"
-  email            : "rob@rastating.com"
+  email            : "robert.carr@owasp.org"
   uri              :
   home             : # null (default), "absolute or relative url to link to author home"
   bitbucket        :
