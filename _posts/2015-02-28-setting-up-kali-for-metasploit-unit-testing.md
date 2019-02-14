@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: post
 title: Setting Up Kali for Metasploit Unit Testing
 date: 2015-02-28
 categories:

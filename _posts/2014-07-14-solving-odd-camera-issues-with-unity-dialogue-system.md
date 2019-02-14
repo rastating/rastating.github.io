@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: post
 title: "Solving Odd Camera Issues with Unity Dialogue System"
 date: 2014-07-14 19:39:00 +0100
 categories:

@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: post
 title: Woo Custom Checkout Field <= 1.3.2 CSRF + Stored XSS Disclosure
 date: 2016-07-25
 categories:

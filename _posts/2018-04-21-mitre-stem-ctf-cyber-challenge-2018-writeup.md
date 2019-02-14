@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: post
 title: "Mitre STEM CTF Cyber Challenge 2018: Write-up"
 excerpt: "A write-up of the challenges completed by the Manchester Grey Hats CTF team during the 2018 Mitre STEM Cyber Challenge CTF."
 date: 2018-04-21 20:56:00 +0100

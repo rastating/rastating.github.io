@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: post
 title: Setting Default Audio Device in Ubuntu 18.04
 excerpt: After upgrading to Ubuntu 18.04, I ran into an issue (or possibly a feature) causing the active audio input / output devices to revert to a device of the system's choosing after a power cycle.
 date: 2018-05-06 13:32:00 +0100

@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: post
 title: Woo Email Control <= 1.01 Reflected XSS Disclosure
 date: 2016-07-19
 categories:

@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: post
 title: Multiple Vulnerabilities in XBTIT Torrent Tracker
 date: 2018-09-03
 categories:

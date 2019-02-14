@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: post
 title: "A Primer to Voltage, Current, Resistance and Ohm's Law"
 date: 2013-05-23 11:00:00 +0100
 categories:

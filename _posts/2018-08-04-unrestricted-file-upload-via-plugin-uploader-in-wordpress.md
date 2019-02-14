@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: post
 title: Unrestricted File Upload via Plugin Uploader in WordPress
 date: 2018-08-04
 categories:

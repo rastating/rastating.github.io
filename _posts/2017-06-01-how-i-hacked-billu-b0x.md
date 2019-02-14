@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: post
 title: How I Hacked Billu B0x
 date: 2017-06-01
 categories:

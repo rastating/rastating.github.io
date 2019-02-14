@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: post
 title: "Cross-fading Views in Android"
 date: 2014-08-27 19:55:00 +0100
 categories:

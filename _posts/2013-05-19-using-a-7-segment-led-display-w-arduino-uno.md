@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: post
 title: "Using a 7 Segment LED Display w/ Arduino Uno"
 date: 2013-05-19 11:00:00 +0100
 categories:

@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: post
 title: "C# XNA Per Pixel Collision Detection on Rotated Objects"
 date: 2011-12-19 22:39:00 +0100
 categories:

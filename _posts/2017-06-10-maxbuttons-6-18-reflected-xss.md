@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: post
 title: MaxButtons <= 6.18 Reflected XSS
 date: 2017-06-10
 categories:

@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: post
 title: FristiLeaks CTF Walkthrough
 date: 2017-07-29
 categories:

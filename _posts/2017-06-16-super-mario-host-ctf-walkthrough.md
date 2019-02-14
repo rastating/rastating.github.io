@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: post
 title: Super Mario Host CTF Walkthrough
 date: 2017-06-16
 categories:

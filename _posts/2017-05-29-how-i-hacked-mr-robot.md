@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: post
 title: How I Hacked Mr. Robot (CTF Walkthrough)
 date: 2017-05-29
 categories:

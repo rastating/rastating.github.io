@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: post
 title: Minecraft Servers List Unauthenticated Shell Upload
 date: 2018-01-18
 categories:

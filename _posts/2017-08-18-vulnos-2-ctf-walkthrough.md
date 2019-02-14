@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: post
 title: VulnOS 2 CTF Walkthrough
 date: 2017-08-18
 categories:

@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: post
 title: WP EasyCart Privilege Escalation Information Disclosure
 date: 2015-02-26
 categories:

@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: post
 title: Altering Msfvenom Exec Payload to Work Without an ExitFunc
 date: 2018-11-18
 categories:

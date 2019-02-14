@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: post
 title: "Mining Dogecoin with a Zeusminer Blizzard and a Raspberry Pi"
 date: 2014-09-15 19:55:00 +0100
 categories:

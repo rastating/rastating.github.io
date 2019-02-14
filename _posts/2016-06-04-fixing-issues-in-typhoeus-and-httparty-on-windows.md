@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: post
 title: Fixing Issues in Typhoeus and HTTParty on Windows
 date: 2016-06-04
 categories:

@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: post
 title: "Creating a 2D Rotating Aim Assist in Unity 4.3"
 date: 2014-01-30 11:00:00 +0100
 categories:

@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: post
 title: ASIS CTF Finals 2017 Write Up
 date: 2017-09-10
 categories:

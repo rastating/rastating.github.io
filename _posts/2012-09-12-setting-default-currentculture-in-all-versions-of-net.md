@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: post
 title: "Setting Default CurrentCulture in all Versions of .NET"
 date: 2012-09-12 21:27:00 +0100
 categories:

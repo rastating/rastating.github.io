@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: post
 title: RegistrationMagic - Custom Registration Forms <= 3.7.9.2 Authenticated SQL Injection
 date: 2017-12-10
 categories:

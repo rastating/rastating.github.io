@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: post
 title: "Using ZeroMQ with Node.js"
 date: 2014-10-24 23:57:00 +0100
 categories:

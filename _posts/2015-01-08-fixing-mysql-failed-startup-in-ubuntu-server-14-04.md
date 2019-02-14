@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: post
 title: Fixing MySQL Failed Startup in Ubuntu Server 14.04
 date: 2015-01-08 22:26:00 +0100
 categories:

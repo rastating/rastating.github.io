@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: post
 title: InstaLinker Reflected XSS Information Disclosure
 date: 2016-02-07
 categories:

@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: post
 title: Scanning Barcodes w/ Panasonic FZ-N1
 date: 2017-10-27
 categories:

@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: post
 title: Privilege Escalation via Python Library Hijacking
 date: 2017-09-11
 categories:

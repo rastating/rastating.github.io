@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: post
 title: Kioptrix Level 4 CTF Walkthrough
 date: 2017-08-03
 categories:

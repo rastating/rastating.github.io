@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: post
 title: Creating Polymorphic Shellcode
 date: 2018-09-21
 categories:

@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: post
 title: Creating an Egg Hunter
 date: 2018-09-06
 categories:

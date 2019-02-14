@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: post
 title: WP Whois Domain Reflected XSS
 date: 2017-01-14
 categories:

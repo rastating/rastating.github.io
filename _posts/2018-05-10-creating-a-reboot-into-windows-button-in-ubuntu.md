@@ -1,8 +1,8 @@
 ---
-layout:  single
-title:   Creating a "Reboot into Windows" Button in Ubuntu
+layout: post
+title: Creating a "Reboot into Windows" Button in Ubuntu
 excerpt: If you're dual booting a Windows and Ubuntu desktop, it can feel a bit cumbersome having to wait for GRUB and then manually choosing to boot into Windows. There is a utility packaged with GRUB which can help resolve this, but it requires a bit of setup.
-date:    2018-05-10 20:42:00 +0100
+date: 2018-05-10 20:42:00 +0100
 categories:
   - ubuntu
   - linux

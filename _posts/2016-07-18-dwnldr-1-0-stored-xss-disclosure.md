@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: post
 title: Dwnldr 1.0 Stored XSS Disclosure
 date: 2016-07-18
 categories:

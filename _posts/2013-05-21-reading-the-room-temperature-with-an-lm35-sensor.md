@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: post
 title: "Reading the Room Temperature with an LM35 Sensor"
 date: 2013-05-21 11:00:00 +0100
 categories:

@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: post
 title: 'Overcoming Some "Gotcha''s" in Frida'
 date: 2018-03-01
 categories:

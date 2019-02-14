@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: post
 title: HackTheBox Node Walkthrough
 date: 2018-03-03
 categories:

@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: post
 title: Lightbox <= 1.6.6 CSRF Stored XSS
 date: 2016-12-02
 categories:

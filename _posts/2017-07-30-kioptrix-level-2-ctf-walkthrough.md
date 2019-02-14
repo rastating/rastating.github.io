@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: post
 title: Kioptrix Level 2 CTF Walkthrough
 date: 2017-07-30
 categories:

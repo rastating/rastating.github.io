@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: post
 title: "/dev/random: scream CTF Walkthrough"
 date: 2017-08-20
 categories:

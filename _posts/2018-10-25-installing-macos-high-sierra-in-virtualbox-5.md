@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: post
 title: Installing MacOS High Sierra in VirtualBox 5
 date: 2018-10-25
 categories:

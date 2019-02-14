@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: post
 title: Arabic Font <= 1.2 CSRF Stored XSS
 date: 2017-07-20
 categories:

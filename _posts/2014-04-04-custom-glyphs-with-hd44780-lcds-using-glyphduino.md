@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: post
 title: "Custom Glyphs with HD44780 LCDs using Glyphduino"
 date: 2014-04-04 11:00:00 +0100
 categories:

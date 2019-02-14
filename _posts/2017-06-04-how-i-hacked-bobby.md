@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: post
 title: How I Hacked Bobby
 date: 2017-06-04
 categories:

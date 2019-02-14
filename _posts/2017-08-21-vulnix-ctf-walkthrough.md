@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: post
 title: Vulnix CTF Walkthrough
 date: 2017-08-21
 categories:

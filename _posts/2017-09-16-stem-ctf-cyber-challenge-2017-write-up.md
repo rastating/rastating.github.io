@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: post
 title: "STEM CTF: Cyber Challenge 2017 Write Up"
 date: 2017-09-16
 categories:

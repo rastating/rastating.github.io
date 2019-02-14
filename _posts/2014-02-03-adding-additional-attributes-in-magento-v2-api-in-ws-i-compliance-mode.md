@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: post
 title: "Adding Additional Attributes in Magento v2 API in WS-I Compliance Mode"
 date: 2014-02-03 11:00:00 +0100
 categories:

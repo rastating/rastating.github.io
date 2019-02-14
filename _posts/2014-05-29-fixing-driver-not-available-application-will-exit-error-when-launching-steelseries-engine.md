@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: post
 title: Fixing "Driver not available, application will exit" error when launching SteelSeries Engine
 date: 2014-05-29 21:36:00 +0100
 categories:

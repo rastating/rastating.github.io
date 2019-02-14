@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: post
 title: Installing Drivers for an Arduino Nano in Windows
 date: 2015-01-30 23:47:00 +0100
 categories:

@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: post
 title: Podlove Podcast Publisher <= 2.3.15 Reflected XSS
 date: 2017-01-21
 categories:

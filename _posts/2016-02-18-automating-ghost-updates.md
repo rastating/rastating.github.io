@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: post
 title: Automating Ghost Updates
 date: 2016-02-18
 categories:

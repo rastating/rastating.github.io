@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: post
 title: SkyTower CTF Walkthrough
 date: 2017-08-22
 categories:

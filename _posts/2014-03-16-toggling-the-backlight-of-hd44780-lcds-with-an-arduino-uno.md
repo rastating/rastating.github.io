@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: post
 title: "Toggling the Backlight of HD44780 LCDs with an Arduino Uno"
 date: 2014-03-16 11:00:00 +0100
 categories:

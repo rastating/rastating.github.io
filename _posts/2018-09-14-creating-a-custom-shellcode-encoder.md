@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: post
 title: Creating a Custom Shellcode Encoder
 date: 2018-09-14
 categories:

@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: post
 title: WP Live Chat Support <= 7.0.06 Reflected XSS
 date: 2017-06-17
 categories:

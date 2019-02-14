@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: post
 title: "Using a 74HC595 Shift Register with an Arduino Uno"
 date: 2013-05-27 11:00:00 +0100
 categories:

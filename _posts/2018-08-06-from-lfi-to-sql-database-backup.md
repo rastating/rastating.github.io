@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: post
 title: From LFI to SQL Database Backup
 date: 2018-08-06
 categories:

@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: post
 title: "Shrinking Arduino Projects using an ATTiny85"
 date: 2014-04-25 11:00:00 +0100
 categories:

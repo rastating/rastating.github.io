@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: post
 title: Creating Shellcode Crypter
 date: 2018-09-22
 categories:

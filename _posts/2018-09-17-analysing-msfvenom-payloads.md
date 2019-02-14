@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: post
 title: Analysing Msfvenom Payloads
 date: 2018-09-17
 categories:

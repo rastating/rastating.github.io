@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: post
 title: Creating a Reverse TCP Shellcode
 date: 2018-09-05
 categories:

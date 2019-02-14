@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: post
 title: "Adding Springs to 2D Platformers in Unity"
 date: 2014-06-27 17:43:00 +0100
 categories:

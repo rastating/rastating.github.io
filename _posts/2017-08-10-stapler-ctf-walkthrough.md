@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: post
 title: Stapler CTF Walkthrough
 date: 2017-08-10
 categories:

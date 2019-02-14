@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: post
 title: "Using a JHD162A LCD Screen with an Arduino Uno"
 date: 2014-03-14 11:00:00 +0100
 categories:

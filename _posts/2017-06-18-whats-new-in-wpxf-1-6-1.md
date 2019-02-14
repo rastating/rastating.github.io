@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: post
 title: "What's New in WPXF 1.6.1"
 date: 2017-06-18
 categories:

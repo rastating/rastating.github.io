@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: post
 title: Fixing CL_UNKNOWN_ERROR in Hashcat on Ubuntu 16.04 w/ NVIDIA GPU
 date: 2017-02-04
 categories:

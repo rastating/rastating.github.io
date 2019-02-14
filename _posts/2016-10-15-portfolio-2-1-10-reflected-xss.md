@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: post
 title: Portfolio <= 2.1.10 Reflected XSS Disclosure
 date: 2016-10-15
 categories:
