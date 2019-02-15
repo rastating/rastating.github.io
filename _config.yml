@@ -1,6 +1,6 @@
 # SITE CONFIGURATION
 baseurl: ""
-url: "https://rastating.github.io/"
+url: "https://rastating.github.io"
 
 # THEME-SPECIFIC CONFIGURATION
 theme_settings:

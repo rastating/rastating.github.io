@@ -7,7 +7,7 @@ categories:
 tags:
   - high sierra
   - virtualbox
-image: /assets/images/installing-macos-high-sierra-in-virtualbox-5/uefi.png
+image: /assets/images/installing-macos-high-sierra-in-virtualbox-5/macos.png
 ---
 During a recent pentest, I needed to throw together a macOS virtual machine. Although there was lots of guides around the web, none seemed to work from start to finish. This post contains the steps I extracted from various resources in order to get a fully working High Sierra install within VirtualBox 5.
 
