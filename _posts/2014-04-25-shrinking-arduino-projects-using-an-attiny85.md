@@ -99,15 +99,19 @@ void loop() {
 
 Click upload and if you wired in the LED to the circuit as shown previously it will now blink on and off every second as in the video below:
 
-<iframe width="420" height="315" src="//www.youtube.com/embed/bGDDQ96xxkc?rel=0" frameborder="0" allowfullscreen></iframe>
+<div class="video-container">
+<iframe src="https://www.youtube.com/embed/ETTwuxOffVE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
 
 ### Additional modifications
 If you want to add on to the circuit a bit further, you can wire LEDs up to the following pins in order to receive feedback as to the progress when uploading sketches:
 
-*    Arduino pin 9 - the heartbeat LED - pulsates to indicate that the programmer circuit has power
-*    Arduino pin 8 - the error LED - lights up if an error occurs when uploading a sketch or burning a bootloader
-*    Arduino pin 7 - the programming LED - flashes as writing to the ATTiny
+* Arduino pin 9 - the heartbeat LED - pulsates to indicate that the programmer circuit has power
+* Arduino pin 8 - the error LED - lights up if an error occurs when uploading a sketch or burning a bootloader
+* Arduino pin 7 - the programming LED - flashes as writing to the ATTiny
 
 Below is a video of these extra LEDs with the entire circuit soldered to a piece of veroboard.
 
-<iframe width="560" height="315" src="//www.youtube.com/embed/A5vfMJwoN2E?rel=0" frameborder="0" allowfullscreen></iframe>
+<div class="video-container">
+<iframe src="https://www.youtube.com/embed/ij9TTwrI_MI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>

@@ -13,7 +13,9 @@ tags:
 ---
 ZeroMQ (sometimes referred to as ØMQ) is an asynchronous messaging library which allows you to utilise a number of different patterns to fit the needs of a variety of scenarios and is capable of handling load balancing by itself, as can be seen in the demonstration video below.
 
-<iframe width="420" height="315" src="//www.youtube.com/embed/RcrsklW0KkQ?rel=0" frameborder="0" allowfullscreen></iframe>
+<div class="video-container">
+<iframe src="https://www.youtube.com/embed/K1X7FnseXH8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
 
 On the left, we have the application that is pushing the messages and on the right, we have two applications pulling the messages. As you can see, once we start the second application, the client applications alternate in pulling messages to process. Once one of the client applications exits, the remaining application continues to process all messages being pushed out; making this a great solution for situations where a worker may go down unexpectedly.
 

@@ -182,7 +182,9 @@ void loop()
 
 Once uploaded and running, you should see something to the effect demonstrated in the video below:
 
-<iframe width="560" height="315" src="//www.youtube.com/embed/MVs61o9kfDQ" frameborder="0" allowfullscreen></iframe>
+<div class="video-container">
+<iframe src="https://www.youtube.com/embed/uZbXl4j3mno" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
 
 In addition to the displayNumber method, you can also call the following methods on the LEDDisplay object:
 

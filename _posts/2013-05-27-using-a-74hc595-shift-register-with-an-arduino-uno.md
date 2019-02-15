@@ -135,7 +135,9 @@ Once we have completed the bit shifting, we write to the latch pin again (using 
 
 If you’ve completed all these steps correctly you should have something similar to that in the video below. **Note**: in the video below I used a slightly modified version of this sketch which lights up all the LEDs sequentially, the sketch above will light one at a time.
 
-<iframe width="560" height="315" src="//www.youtube.com/embed/nLjJII9wEc0" frameborder="0" allowfullscreen></iframe>
+<div class="video-container">
+<iframe src="https://www.youtube.com/embed/DjboHB65PFM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
 
 Something that should be noted going forward is that this particular shift register cannot safely draw a current higher than 70 mA at a time (which is why the guide shows you how to light one LED at a time instead of all of them).
 

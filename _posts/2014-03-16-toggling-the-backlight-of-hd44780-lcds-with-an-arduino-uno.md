@@ -16,7 +16,9 @@ tags:
 ---
 This guide will show you how to use a push button to toggle an LCD screen's backlight on for a set amount of time and then turn itself back off, as can be seen in the demo video below.
 
-<iframe width="560" height="315" src="//www.youtube.com/embed/s_p40VsBkJM?rel=0" frameborder="0" allowfullscreen></iframe>
+<div class="video-container">
+<iframe src="https://www.youtube.com/embed/V0Kqyw_ZvV4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
 
 The wiring of the circuit to enable us to control the HD44780's backlight using a push button will be based on the wiring in my previous guide on [Using a JHD162A LCD Screen with an Arduino Uno](/using-a-jhd162a-lcd-screen-with-an-arduino-uno/). Before continuing, build up the circuit described in the previous guide, as this one will walk you through the required modifications.
 

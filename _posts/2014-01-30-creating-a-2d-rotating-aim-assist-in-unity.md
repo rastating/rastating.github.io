@@ -70,7 +70,9 @@ Now, head back into the scene editor, select your arrow object and drag the AimA
 
 Assuming you did everything correctly, you should now have something that works similar to the demonstration video below:
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/tw-M9653ST8?rel=0" frameborder="0" allowfullscreen></iframe>
+<div class="video-container">
+<iframe src="https://www.youtube.com/embed/2VOQXJIFKhw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
 
 You can then of course get rid of the rather ugly looking arrow from this guide and put some more interesting graphics in, as I have done by replacing the arrow with a cross hair:
 

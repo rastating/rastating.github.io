@@ -123,6 +123,8 @@ The [LiquidCrystal](http://arduino.cc/en/Reference/LiquidCrystal#.UyNz4fl_tco) l
 
 If you power up the Arduino now and upload the sketch to it, you should have something akin to the below video:
 
-<iframe width="560" height="315" src="//www.youtube.com/embed/aZWGzwB9rus?rel=0" frameborder="0" allowfullscreen></iframe>
+<div class="video-container">
+<iframe src="https://www.youtube.com/embed/l_4rDoCy0To" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
 
 For more information on the JHD162A, you can refer to the datasheet, which you can [Download Here](https://mega.co.nz/#!fQtD2RiR!ThyFVGksWfBdmn9NLmn4pAhfZAXcNFd4QGqWnIhQ_5U).
