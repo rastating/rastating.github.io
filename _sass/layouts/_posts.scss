@@ -79,7 +79,9 @@ div.highlight {
     margin-bottom: 25px;
 }
 
-.video, .video-container > iframe {
+.video,
+.video-container > iframe,
+.video-container > .video.video-js {
     position: absolute;
     top: 0;
     left: 0;
