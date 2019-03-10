@@ -12,7 +12,7 @@ tags:
   - offsec
 image: /assets/images/2019-03-03-persistent-code-execution-via-xscreensaver/xscreensaver.png
 ---
-After successfully gaining remote access to a host, acquiring some form of persistence is usually on the cards in case of network problems, system reboots etc. There are many ways to do this but one way I discovered recently, I thought was quite discrete in comparison to other methods (editing shell rc files, crontabs etc.).
+After successfully gaining remote access to a host, acquiring some form of persistence is usually on the cards in case of network problems, system reboots etc. There are many ways to do this but one way I discovered recently, I thought was quite discreet in comparison to other methods (editing shell rc files, crontabs etc.).
 
 The method I came across was to modify the configuration file of XScreenSaver, a very common screensaver package for Linux, to execute a shell. [mis]Using XScreenSaver offers a couple of benefits:
 
