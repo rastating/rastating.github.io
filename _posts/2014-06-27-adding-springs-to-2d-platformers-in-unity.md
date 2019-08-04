@@ -23,7 +23,7 @@ To view an example of this component in action, [Click Here](https://rastating.g
 In order to use this prefab, your user controlled player will have to have a 2D rigidbody attached to it as the prefab assumes you are using the physics engine to control your character's movement.
 
 ### Using the Prefab
-First of all, download [This Unity Package](https://mega.nz/#!CUViRLSQ!qMiQ-AdZJgHlUKlbzXNXPdJeYHqgBml06zANfiGlyf8)
+First of all, download [This Unity Package](https://drive.google.com/open?id=1dWUJejJbdwUanzON5Thvz_a6rl0FUeHG)
 
 Once downloaded, import it into your project by opening the Assets menu, clicking "Import Package" and then choosing "Custom Package..." and selecting the package you just downloaded.
 
@@ -63,4 +63,4 @@ and I modified it to have the various frames, as can be seen below. If you're in
 
 ![](/assets/images/adding-springs-to-2d-platformers-in-unity/spring.png)
 
-You can download the sprite sheet, the individual frames and the vector (in both svg and ai formats) from [This Link](https://mega.nz/#!bMUSxTyC!8mAUfmWQ_ynuFBhByTYELjBt0kwQ83I8XfESMzDL0oo). To keep inline with the same sharing is caring attitude Kenney has taken to his work - feel free to modify and use this however you see fit, including for commercial use.
+You can download the sprite sheet, the individual frames and the vector (in both svg and ai formats) from [This Link](https://drive.google.com/open?id=15Yyu8kaYCGzbt3mpiGm_wv_xKuhhRAmt). To keep inline with the same sharing is caring attitude Kenney has taken to his work - feel free to modify and use this however you see fit, including for commercial use.
