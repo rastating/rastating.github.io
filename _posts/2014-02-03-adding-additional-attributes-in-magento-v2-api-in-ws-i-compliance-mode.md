@@ -109,4 +109,4 @@ if (property_exists($productData, 'additional_attributes')) {
 }
 ```
 
-Make this modification to your V2.php file and you should see all your product creation requests working properly now instead of discarding the data you pass into the additional attributes. Alternatively, if you'd rather not patch it yourself, you can grab a copy of the patched file [From This Link](https://mega.co.nz/#!rUUzlLoa!5tKwQ96OP0cPaibQzMfAQ7UNxjh5hJi9Msp4y5R8CbA).
+Make this modification to your V2.php file and you should see all your product creation requests working properly now instead of discarding the data you pass into the additional attributes. Alternatively, if you'd rather not patch it yourself, you can grab a copy of the patched file [From This Link](https://drive.google.com/open?id=1GViC7Gv7lYJAlLcZbKKW6ZBv4X5qpaEN).

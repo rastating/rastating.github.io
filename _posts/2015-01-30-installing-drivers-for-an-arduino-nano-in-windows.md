@@ -14,7 +14,7 @@ tags:
 ---
 If you are attempting to use an Arduino Nano on a Windows machine and having no luck finding drivers automatically, chances are it is due to a counterfeit FTDI chip which unfortunately does not work with the automatic driver finding functionality in Windows.
 
-Thankfully, there is a solution if you are running into this problem! Start off by downloading the drivers from the official FTDI site via [http://www.ftdichip.com/Drivers/CDM/CDM%20v2.12.00%20WHQL%20Certified.zip](http://www.ftdichip.com/Drivers/CDM/CDM%20v2.12.00%20WHQL%20Certified.zip) (a mirror can be found [Here](https://mega.co.nz/#!XRsFhKZD!GYfC83h701XkbhT7OO3GkOtnaENl-aNyHKWjmCqOWEQ), in case the official link dies in the future).
+Thankfully, there is a solution if you are running into this problem! Start off by downloading the drivers from the official FTDI site via [http://www.ftdichip.com/Drivers/CDM/CDM%20v2.12.00%20WHQL%20Certified.zip](http://www.ftdichip.com/Drivers/CDM/CDM%20v2.12.00%20WHQL%20Certified.zip) (a mirror can be found [Here](https://drive.google.com/open?id=10gWUf-FYqLwKX0uStQkthWPTCln30GP2), in case the official link dies in the future).
 
 Once downloaded, unzip the archive and then head to the device manager (Control Panel > Administrative Tools > Computer Management > Device Manager), you should see a device with a yellow exclamation mark next to it labelled "FT232R USB UART", or possibly a slight variation if using a different FTDI chip. Right click this entry and click `Update Driver Software...`.
 

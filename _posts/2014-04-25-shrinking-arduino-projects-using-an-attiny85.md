@@ -36,7 +36,7 @@ The first thing we need to do is find out where your sketchbook folder is locate
 
 Inside the Sketchbook location should be a folder called "hardware"; if one doesn't exist then create it now.
 
-Now that we have the location of your Sketchbook, close the Arduino IDE and [Download This ZIP File](https://mega.co.nz/#!uZdGiKDS!fiNUfEVe3Oyf2HZaguXdsimKXJ1vqRRp5hNFV57PGZg). Once the download is complete, unzip the contents into the hardware folder that we just created / located.
+Now that we have the location of your Sketchbook, close the Arduino IDE and [Download This ZIP File](https://drive.google.com/open?id=1Gj-f5OHGjtrPb_Fsb2inuqoIVNXNLgw3). Once the download is complete, unzip the contents into the hardware folder that we just created / located.
 
 Your IDE is now setup and ready to program the ATTiny!
 

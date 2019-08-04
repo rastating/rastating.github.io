@@ -61,7 +61,7 @@ Just to give a slight overview of what is happening in that method re. the try c
 
 Once you've added the method, simply call it and pass through the CultureInfo you wish to be the default and you're done!
 
-Below is a full example of how it can be used, or alternatively you can [Download This Sample Project](https://mega.co.nz/#!7UUkQCLa!zXPlhtaaXtFT74ituJqQmmcVbOkuQ5_Z7A6VYt7s05s).
+Below is a full example of how it can be used, or alternatively you can [Download This Sample Project](https://drive.google.com/open?id=161bws-2D7hDgn0olVgY55BXo0zKWcZI0).
 
 Enjoy!
 
