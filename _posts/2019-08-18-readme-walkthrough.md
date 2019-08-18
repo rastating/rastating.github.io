@@ -9,6 +9,7 @@ categories:
 tags:
   - vulnhub
   - readme
+image: /assets/images/2019-08-18-readme-walkthrough/adminer-exploit.png
 ---
 Overview
 --------
