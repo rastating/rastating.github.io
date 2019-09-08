@@ -151,6 +151,17 @@
 </li>
 {% endif %}
 
+{% if site.theme_settings.patreon %}
+<li>
+	<a class="social-link" href="https://www.patreon.com/{{ site.theme_settings.patreon }}" target="_blank" title="{{ site.theme_settings.str_follow_on }} Patreon">
+		<span class="fa-stack">
+			<i class="fas fa-circle fa-stack-2x"></i>
+			<i class="fab fa-patreon fa-stack-1x fa-inverse"></i>
+		</span>
+	</a>
+</li>
+{% endif %}
+
 {% if site.theme_settings.twitter %}
 <li>
 	<a class="social-link" href="https://twitter.com/{{ site.theme_settings.twitter }}" target="_blank" title="{{ site.theme_settings.str_follow_on }} Twitter">
