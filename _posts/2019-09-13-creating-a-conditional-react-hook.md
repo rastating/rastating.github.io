@@ -30,7 +30,7 @@ The solution to this was incredibly simple, but didn't click straight away. That
 
 Below is an example of my hook, with some implementation replaced with some mock code for the sake of keeping it simple.
 
-```javascript
+```jsx
 import React, { useState, useEffect } from 'react'
 
 function useApi ({ endpoint, method, body, shouldExecute }) {
@@ -77,7 +77,7 @@ By adding this extra flag, `useEffect` can be configured to be dependent on `sho
 
 Now that the `useApi` hook will only make the AJAX request based on the flag that we can bind a value to in its consumer, we can invoke it twice at the start of the consuming hook like this:
 
-```javascript
+```jsx
 const ApiWrapper = () => {
   const [shouldSave, setShouldSave] = useState(false)
 
