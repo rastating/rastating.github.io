@@ -36,6 +36,17 @@
 </li>
 {% endif %}
 
+{% if site.theme_settings.bitcoin %}
+<li>
+	<a class="social-link" href="bitcoin:{{ site.theme_settings.bitcoin }}" title="Donate Bitcoin">
+		<span class="fa-stack">
+			<i class="fas fa-circle fa-stack-2x"></i>
+			<i class="fab fa-bitcoin fa-stack-1x fa-inverse"></i>
+		</span>
+	</a>
+</li>
+{% endif %}
+
 {% if site.theme_settings.dribbble %}
 <li>
 	<a href="https://dribbble.com/{{ site.theme_settings.dribbble }}" title="{{ site.theme_settings.str_follow_on }} Dribbble">
