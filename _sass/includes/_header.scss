@@ -111,3 +111,11 @@ a.social-link {
     }
   }
 }
+
+li.hideable-social-link {
+  @media (max-width: 440px) {
+    & {
+      display: none !important;
+    }
+  }
+}
