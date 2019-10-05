@@ -67,7 +67,7 @@ Versions Affected
 
 Solution
 --------
-Apply the patch found at [https://github.com/bludit/bludit/pull/1090](https://github.com/bludit/bludit/pull/1090)
+Update to a version later than 3.9.2 or apply the patch found at [https://github.com/bludit/bludit/pull/1090](https://github.com/bludit/bludit/pull/1090)
 
 CVSS v3 Vector
 --------------
@@ -77,6 +77,7 @@ Disclosure Timeline
 -------------------
 - **2019-10-05**: Vulnerability found, pull request opened with fix
 - **2019-10-05**: CVE requested
+- **2019-10-05**: Patch merged into master branch
 
 Proof of Concept
 ----------------
