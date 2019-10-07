@@ -11,6 +11,7 @@ tags:
   - php
   - security
   - websec
+  - CVE-2019-17240
 image: /assets/images/2019-10-05-bludit-brute-force-mitigation-bypass/68747470733a2f2f61736369696e656d612e6f72672f612f3237323636312e737667.jpg
 ---
 Versions prior to and including 3.9.2 of the Bludit CMS are vulnerable to a bypass of the anti-brute force mechanism that is in place to block users that have attempted to incorrectly login 10 times or more. Within the `bl-kernel/security.class.php` file, there is a function named `getUserIp` which attempts to determine the _true_ IP address of the end user by trusting the `X-Forwarded-For` and `Client-IP` HTTP headers:
@@ -78,6 +79,7 @@ Disclosure Timeline
 - **2019-10-05**: Vulnerability found, pull request opened with fix
 - **2019-10-05**: CVE requested
 - **2019-10-05**: Patch merged into master branch
+- **2019-10-06**: CVE-2019-17240 assigned to issue
 
 Proof of Concept
 ----------------
