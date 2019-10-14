@@ -12,6 +12,7 @@ tags:
   - security
   - websec
   - rce
+  - CVE-2019-17536
 image: /assets/images/2019-10-13-gila-cms-upload-bypass-and-rce/shell-on-server.png
 ---
 Versions prior to and including 1.11.4 of Gila CMS are vulnerable to remote code execution by users that are permitted to upload media files. It is possible to bypass the media asset upload restrictions that are in place to prevent arbitrary PHP being executed on the server by abusing a combination of two issues.
@@ -69,6 +70,7 @@ Disclosure Timeline
 - **2019-10-12**: Vulnerability found
 - **2019-10-13**: Patch created and pull request sent to project
 - **2019-10-13**: CVE requested
+- **2019-10-13**: CVE-2019-17536 assigned
 
 Proof of Concept
 ----------------
