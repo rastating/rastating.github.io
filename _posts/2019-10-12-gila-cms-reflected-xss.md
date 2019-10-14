@@ -11,6 +11,7 @@ tags:
   - php
   - security
   - websec
+  - CVE-2019-17535
 image: /assets/images/2019-10-12-gila-cms-reflected-xss/gila-reflected-xss.png
 ---
 Versions prior to and including 1.11.4 of Gila CMS are vulnerable to reflected cross-site scripting. On line 29 and 30 of the `blog-list.php` view found in both the `gila-blog` and `gila-mag` themes, the value of the user provided search criteria is printed back to the response without any sanitisation. This can result in cross-site scripting as can be seen in the below screenshot:
@@ -39,3 +40,4 @@ Disclosure Timeline
 -------------------
 - **2019-10-12**: Vulnerability found, pull request opened with fix
 - **2019-10-12**: CVE requested
+- **2019-10-13**: CVE-2019-17535 assigned
