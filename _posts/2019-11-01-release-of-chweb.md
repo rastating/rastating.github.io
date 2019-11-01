@@ -58,6 +58,6 @@ If you'd like to check it out, it is now available on GitHub at the following UR
 * Back-end server: [https://github.com/rastating/chweb-server](https://github.com/rastating/chweb-server)
 * Chrome extension: [https://github.com/rastating/chweb-chrome](https://github.com/rastating/chweb-chrome)
 
-Currently, the Chrome extension is still pending approval by Google, so it must be installed manually in developer mode by running `yarn build` in the source code directory and then loading an unpacked extension in Chrome using the `build` directory. Inconvenient, but if you want to try it out before it reaches the Google Store, that's how it is done!
+The Chrome extension is available for installation from the web store at [https://chrome.google.com/webstore/detail/chweb/mfodgeapiplbioiakjgijonfhknmecab](https://chrome.google.com/webstore/detail/chweb/mfodgeapiplbioiakjgijonfhknmecab)
 
 As the goal of this system is to help keep people secure, it's safe to say the security of the system is of paramount importance. Although I have tested this extensively during development, it's entirely possible there are holes that I have been blinded by from a developers' standpoint. If you want to try hacking on it and find anything, if you could open an issue on the appropriate GitHub repository, it'd be much appreciated!
