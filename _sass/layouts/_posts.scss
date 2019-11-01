@@ -98,3 +98,16 @@ article {
     text-align: center;
   }
 }
+
+.post-content {
+  ol {
+    li {
+      margin-left: 2em;
+
+      p {
+        display: inline;
+        margin-left: 1em;
+      }
+    }
+  }
+}
