@@ -18,10 +18,10 @@ theme_settings:
 
   # Icons
   rss: true
-  email_address: robert.carr@owasp.org # Full email address, e.g. "sam@example.com"
+  email_address: rastating@protonmail.com
   behance:
   bitbucket:
-  bitcoin: bc1qj667qadh4r4v2s7rhjx6dhlnq8358h5t0ndvf9
+  bitcoin:
   dribbble:
   facebook:
   flickr:
@@ -30,7 +30,7 @@ theme_settings:
   google_plus:
   instagram:
   linkedin:  # Full URL
-  patreon: rastating
+  patreon:
   pinterest:
   reddit:
   soundcloud:
